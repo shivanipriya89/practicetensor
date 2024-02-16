@@ -5,3 +5,4 @@ grade,subgrades etc
 The aim of this project is to identify whether the borrower will repay the loan or not by building the keras model
 There are 2066 records or entries in the lending_club_loan_two csv file for the analysis
 Questions are written in KerasProject.ipynb file and the answers are in thekeras.ipynb file.
+Instead of 396030 entries, I have taken 2066 records for model building
